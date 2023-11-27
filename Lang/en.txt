@@ -1165,7 +1165,7 @@ str_credits_cityContest=Contest Winners:
 
 
 Monsters/VOIDCORN=<color="red">V O I D C O R N</color>
-str_class_YOOL=<YOURMISSINGYOOL></color>
+str_class_YOOL=<YOURMISSINGYOOL>
 
 Monsters/Monster_olga=Olgaropipe
 Monsters/Monster_olga_bio=Sent into the chronic void, Hyddryd's aquatic element overwhelmed all matter and reformed monsters into new identites, creating new monsters like the kind and soft Olgaropipe. Transformed, they now shimmered with luminescence, gaining the ability to manipulate water. United, they became protectors of the void, their movements echoing cosmic tides. Through liquid currents, they coordinate a mesmerizing symphony, bringing newfound equilibrium to the Gamma Water Island and the ruins of the Monster World.
