@@ -1662,49 +1662,49 @@ Monsters/Monster_percFrog_bio=Амфиритм - это лягушка. Как �
 
 
 Decoration/Decoration_test=Древо Клавиш
-Decoration/Decoration_test_bio=А
+Decoration/Decoration_test_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test1=Болтливая Редька
-Decoration/Decoration_test1_bio=А
+Decoration/Decoration_test1_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test2=Смолистое Дерево
-Decoration/Decoration_test2_bio=А
+Decoration/Decoration_test2_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test3=Дерево Дууш
-Decoration/Decoration_test3_bio=А
+Decoration/Decoration_test3_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test4=Фонтан Комка
-Decoration/Decoration_test4_bio=А
+Decoration/Decoration_test4_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test5=Цветущая Кость
-Decoration/Decoration_test5_bio=А
+Decoration/Decoration_test5_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test6=Тюлпан Жонглер
-Decoration/Decoration_test6_bio=А
+Decoration/Decoration_test6_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test7=Ведро Рогоза
-Decoration/Decoration_test7_bio=А
+Decoration/Decoration_test7_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test8=Дерево Опроягод
-Decoration/Decoration_test8_bio=А
+Decoration/Decoration_test8_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test9=Запасные Части
-Decoration/Decoration_test9_bio=А
+Decoration/Decoration_test9_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test10=Балуни
-Decoration/Decoration_test10_bio=А
+Decoration/Decoration_test10_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test11=Дерево Кровоцвет
-Decoration/Decoration_test11_bio=А
+Decoration/Decoration_test11_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_test12=Король
-Decoration/Decoration_test12_bio=А
+Decoration/Decoration_test12_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_knott=Гора Неуверен
-Decoration/Decoration_knott_bio=А
+Decoration/Decoration_knott_bio=Данные отсутствуют. Приходите позже.
 
 Decoration/Decoration_mors=Вкусочек Горы
-Decoration/Decoration_mors_bio=А
+Decoration/Decoration_mors_bio=Данные отсутствуют. Приходите позже.
 
 
 
