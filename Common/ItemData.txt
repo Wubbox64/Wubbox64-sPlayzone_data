@@ -24,7 +24,7 @@ Island_Knottshurr: 60 60
 BlueLog 100 trees
 Bone 100 ground
 Rock 100 ground
-Vortex 15 ground_log
+Vortex 12 ground_log
 Wool 100 ground,wool
 ;
 Island_Candy: 40 40
