@@ -2,7 +2,7 @@
 #GeneratorName: items_per_day items_limit
 
 ;
-Island_City: 1440 100
+Island_City: 620 100
 Flower_red 33 flowers
 Flower_yellow 33 flowers
 Flower_blue 33 flowers
@@ -24,7 +24,7 @@ Island_Knottshurr: 60 60
 BlueLog 100 trees
 Bone 100 ground
 Rock 100 ground
-Vortex 10 ground_log
+Vortex 15 ground_log
 Wool 100 ground,wool
 ;
 Island_Candy: 40 40
