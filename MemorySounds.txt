@@ -1,0 +1,19 @@
+
+Default Sounds/Memmory/Default
+
+Monsters/Monster_toejammer_rare Sounds/Memmory/Monster_toejammer
+Monsters/Monster_potbelly_rare Sounds/Memmory/Monster_potbelly
+Monsters/Monster_tweedle_rare Sounds/Memmory/Monster_tweedle
+Monsters/Monster_flootfly_rare Sounds/Memmory/Monster_flootfly
+Monsters/Monster_wadee_rare Sounds/Memmory/Monster_wadee
+Monsters/Monster_choral_rare Sounds/Memmory/Monster_choral
+Monsters/Monster_likho_rare Sounds/Memmory/Monster_likho
+Monsters/Monster_oaktopus_rare Sounds/Memmory/Monster_oaktopus
+Monsters/Monster_quibble_rare Sounds/Memmory/Monster_quibble
+Monsters/Monster_spunge_rare Sounds/Memmory/Monster_spunge
+Monsters/Monster_dulsylvan_rare Sounds/Memmory/Monster_dulsylvan
+Monsters/Monster_banno_rare Sounds/Memmory/Monster_banno
+Monsters/Monster_dandidoo_rare Sounds/Memmory/Monster_dandidoo
+Monsters/Monster_varrow_rare Sounds/Memmory/Monster_varrow
+Monsters/Monster_stoopa_rare Sounds/Memmory/Monster_stoopa
+

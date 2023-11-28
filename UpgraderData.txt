@@ -1,0 +1,30 @@
+
+Castle Candy
+Structures/Structure_castle_undof 60 coins=10000 10000
+Structures/Structure_castle_undof2 3600 coins=18000 15000
+Structures/Structure_castle_undof3 18000 coins=26000 20000
+Structures/Structure_castle_undof4 36000 diamonds=10 20000
+Structures/Structure_castle_undof5 54000 diamonds=16 20000
+Structures/Structure_castle_undof6 86400 diamonds=20 20000
+;
+Castle Placeholder
+Structures/Structure_castle_undof 60 coins=10000 10000
+;
+Breeding Candy
+Structures/Structure_breeding_undof 0 diamonds=25 10000
+Structures/Structure_breeding_undof2 0 diamonds=100,Candycane=50,Candycorn=50,Peppermint=50 10000
+Structures/Structure_breeding_undof3 0 diamonds=100,Candycane=50,Candycorn=50,Peppermint=50 10000
+;
+Wheezel Organs
+Monsters/Monster_wheezel_rock 0 Catfur=10,BloodCells=20,Bone=30,Log=25,Virus=5 10000
+Monsters/Monster_wheezel 0 diamonds=100 1
+;
+Knurv Organs
+Monsters/Monster_knurv_rock 0 Catfur=15,Vortex=4,Rock=30,Log=25,Flower_yellow=10,Flower_blue=15 10000
+Monsters/Monster_knurv 0 diamonds=100 1
+;
+Knottmaker Knottshurr
+Structures/Structure_knottmaker1 0 BlueLog=10,Rock=10,Vortex=2 10000
+Structures/Structure_knottmaker2 0 BlueLog=10,Rock=15,Bone=10,Vortex=3 10000
+Structures/Structure_knottmaker3 0 BlueLog=20,Rock=20,Bone=20,Wool=40,Vortex=5 10000
+Structures/Structure_knottmaker4 0 diamonds=25 10000

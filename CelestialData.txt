@@ -1,0 +1,12 @@
+1 water@Monsters/Monster_hornacle;light@Monsters/Monster_light
+2 fire@Monsters/Monster_furnoss;light@Monsters/Monster_light
+3 cold@Monsters/Monster_glaishur;psychic@Monsters/Monster_psychic
+4 plant@Monsters/Monster_blasoom;light@Monsters/Monster_light
+5 crystal@Monsters/Monster_syncopite;bone@Monsters/Monster_bone
+6 mech@Monsters/Monster_vhamp;psychic@Monsters/Monster_psychic
+7 electrcity@Monsters/Monster_galvana;faerie@Monsters/Monster_faerie
+8 poison@Monsters/Monster_scaratar;faerie@Monsters/Monster_faerie
+9 shadow@Monsters/Monster_loodvigg;bone@Monsters/Monster_bone
+10 earth@Monsters/Monster_torrt;bone@Monsters/Monster_bone
+11 plasma@Monsters/Monster_plixie;psychic@Monsters/Monster_psychic
+12 air@Monsters/Monster_attmoz;faerie@Monsters/Monster_faerie

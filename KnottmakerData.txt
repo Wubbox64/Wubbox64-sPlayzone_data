@@ -1,0 +1,29 @@
+2 Monsters/Knott_1 1 BlueLog=20,Wool=3,Rock=10 20000,15000,10000 36000,25200,18000 3,2,1
+2 Monsters/Knott_2 2 BlueLog=5,Wool=15,Rock=5 20000,15000,10000 36000,25200,18000 3,2,1
+2 Monsters/Knott_5 5 Rock=20,Vortex=3 20000,15000,10000 36000,25200,18000 3,2,1
+
+3 Monsters/Knott_4 4 Rock=25,Wool=5,Vortex=2 20000,15000,10000 36000,57600,36000 0,4,3
+3 Monsters/Knott_10 10 Rock=40,Vortex=3 20000,15000,10000 36000,57600,36000 0,4,3
+3 Monsters/Knott_7 7 BlueLog=5,Wool=10,Bone=20 20000,15000,10000 36000,57600,36000 0,4,3
+3 Monsters/Knott_8 8 BlueLog=10,Rock=20,Wool=15,Bone=10 20000,15000,10000 36000,57600,36000 0,4,3
+
+4 Monsters/Knott_9 9 BlueLog=15,Wool=20,Rock=50,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,9
+4 Monsters/Knott_3 3 BlueLog=30,Rock=10,Bone=25,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,8
+4 Monsters/Knott_6 6 BlueLog=20,Rock=40,Wool=7,Bone=10,Vortex=10 20000,15000,10000 36000,25200,86400 0,0,9
+
+4 Monsters/Knott_special special BlueLog=40,Rock=40,Wool=40,Bone=40,Vortex=15 20000,15000,20000 36000,25200,259200 0,0,12
+
+1000 Monsters/Knott_1_rare 1 Log=20,Fabric=3,Jewel=10 15 36000 5
+1000 Monsters/Knott_2_rare 2 Log=5,Fabric=15,Jewel=5 15 36000 5
+1000 Monsters/Knott_5_rare 5 Jewel=20,Relic=3 15 36000 5
+
+1000 Monsters/Knott_10_rare 10 Jewel=40,Relic=3 20 57600 10
+
+1000 Monsters/Knott_9_rare 9 Log=15,Fabric=20,Jewel=50,Relic=10 25 86400 15
+
+1000 Monsters/Knott_special_rare-d special Log=40,Jewel=40,Fabric=40,Metal=40,Relic=15 30 259200 15
+
+1000 Monsters/Monster_toejammer_rare 6 Relic=1 2 8 1
+
+
+100 none 0 none 1,2,5 36000,25200,18000

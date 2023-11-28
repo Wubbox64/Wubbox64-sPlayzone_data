@@ -1,0 +1,94 @@
+
+Maulch EM
+Monsters/Monster_potbelly 5
+Monsters/Monster_tweedle 5
+Monsters/Monster_toejammer 5
+Monsters/Monster_flootfly 4
+Monsters/Monster_oaktopus 4
+Monsters/Monster_dandidoo 4
+Monsters/Monster_likho 3
+Monsters/Monster_wadee 3
+Monsters/Monster_varrow 3
+Monsters/Monster_quibble 4
+Monsters/Monster_spunge 3
+Monsters/Monster_choral 2
+Monsters/Monster_dulsylvan 2
+Monsters/Monster_banno 2
+Monsters/Monster_stoopa 1
+Monsters/Monster_bridgit 1
+Monsters/Monster_phangler 1
+Monsters/Monster_frondley 1
+;
+Maulch City
+Structures/Structure_bakery 2
+Decoration/Decoration_test1 2
+;
+Fleechwurm Candy
+Monsters/Monster_ghazt_undof 1
+Monsters/Monster_jamboree_undof 1
+Monsters/Monster_knife 1
+Monsters/Monster_sprinklate 4
+;
+Wubbox Candy
+Monsters/Monster_toejammer_undof 1
+Monsters/Monster_kayna_undof 1
+Monsters/Monster_noggin_undof 1
+Monsters/Monster_fwog_undof 1
+Monsters/Monster_thrumble_undof 1
+Monsters/Monster_phangler_undof 1
+Monsters/Monster_stogg_undof 1
+Monsters/Monster_gumtromp 1
+Monsters/Monster_keytrus 1
+Monsters/Monster_koodahcane 1
+Monsters/Monster_marshflamo 1
+Monsters/Monster_brasscuit 1
+Monsters/Monster_gobstomper 1
+Monsters/Monster_claramel 1
+Monsters/Monster_sprinklate 1
+;
+Wubbox_rare Candy
+Monsters/Monster_toejammer_rare_undof 1
+Monsters/Monster_kayna_rare_undof 1
+Monsters/Monster_noggin_rare_undof 1
+Monsters/Monster_fwog_rare_undof 1
+Monsters/Monster_thrumble_rare_undof 1
+Monsters/Monster_phangler_rare_undof 1
+Monsters/Monster_stogg_rare_undof 1
+Monsters/Monster_gumtromp_rare 1
+Monsters/Monster_keytrus_rare 1
+Monsters/Monster_koodahcane_rare 1
+Monsters/Monster_marshflamo_rare 1
+Monsters/Monster_brasscuit_rare 1
+Monsters/Monster_gobstomper_rare 1
+Monsters/Monster_claramel_rare 1
+Monsters/Monster_sprinklate_rare 1
+;
+Wheezel Organs
+Monsters/Monster_handmond 1
+Monsters/Monster_theremind 1
+Monsters/Monster_whimstlop 1
+Monsters/Monster_reebro 1
+;
+Knurv Organs
+Monsters/Monster_clamble 5
+Monsters/Monster_whimstlop 5
+;
+Poewk Calamity
+Monsters/Monster_stogg_undof 1
+Monsters/Monster_varrow 1
+Monsters/Monster_boskus 1
+Monsters/Monster_pango 1
+Monsters/Monster_denchuhs 1
+Monsters/Monster_banno 1
+Monsters/Monster_rootitoot 1
+;
+Pixolotl Calamity
+Monsters/Monster_pummel 1
+Monsters/Monster_clamble 1
+Monsters/Monster_tiawa 1
+Monsters/Monster_arackulele 1
+Monsters/Monster_punkleton 1
+Monsters/Monster_ffydill 1
+Monsters/Monster_deedge 1
+
+

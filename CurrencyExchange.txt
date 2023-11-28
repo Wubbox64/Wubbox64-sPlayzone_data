@@ -1,0 +1,7 @@
+stars=25;diamonds=50
+coins=25000;diamonds=45
+coins=100000;diamonds=70
+Lilly=1;diamonds=25
+Jewel=1;stars=10
+Vortex=1;diamonds=25
+Relic=1;diamonds=10
