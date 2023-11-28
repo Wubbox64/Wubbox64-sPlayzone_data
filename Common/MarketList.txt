@@ -1,0 +1,765 @@
+
+EM
+monsters:
+Monsters/Monster_toejammer diamonds=25
+Monsters/Monster_potbelly diamonds=25
+Monsters/Monster_tweedle diamonds=25
+Monsters/Monster_flootfly diamonds=25
+Monsters/Monster_oaktopus diamonds=50
+Monsters/Monster_dandidoo diamonds=50
+Monsters/Monster_likho diamonds=75
+Monsters/Monster_wadee diamonds=75
+Monsters/Monster_varrow diamonds=75
+Monsters/Monster_quibble diamonds=50
+Monsters/Monster_spunge diamonds=90
+Monsters/Monster_choral diamonds=100
+Monsters/Monster_dulsylvan diamonds=100
+Monsters/Monster_banno diamonds=100
+Monsters/Monster_stoopa diamonds=250
+Monsters/Monster_maulch coins=25000
+-
+monster_secret:
+Monsters/Monster_percFrog
+Monsters/Special/Monster_melochness
+-
+monster_rares:
+Monsters/Monster_toejammer_rare
+Monsters/Monster_oaktopus_rare
+Monsters/Monster_quibble_rare
+Monsters/Monster_varrow_rare
+Monsters/Monster_spunge_rare
+Monsters/Monster_dulsylvan_rare
+Monsters/Monster_banno_rare
+Monsters/Monster_phangler_rare
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Obstacle_placable_EM_1
+Decoration/Obstacle_placable_EM_2
+Decoration/Obstacle_placable_EM_3
+Decoration/Obstacle_placable_EM_4
+Decoration/Obstacle_placable_EM_5
+Decoration/Obstacle_placable_EM_6
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_breeding
+Structures/Structure_crafter
+Structures/Structure_bakery
+Structures/Structure_bass
+-
+deco_paths:
+EM_path1
+EM_path2
+EM_path3
+EM_path4
+EM_path5
+EM_path6
+EM_path7
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_obstacles:
+Decoration/Obstacle_placable_EM_1
+Decoration/Obstacle_placable_EM_2
+Decoration/Obstacle_placable_EM_3
+Decoration/Obstacle_placable_EM_4
+Decoration/Obstacle_placable_EM_5
+Decoration/Obstacle_placable_EM_6
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Dog
+-
+composer:
+Monsters/Composer/Monster_toejammer_composer coins=10
+Monsters/Composer/Monster_potbelly_composer coins=10
+Monsters/Composer/Monster_tweedle_composer coins=10
+Monsters/Composer/Monster_flootfly_composer coins=10
+Monsters/Composer/Monster_choral_composer coins=10
+Monsters/Composer/Monster_likho_composer coins=10
+Monsters/Composer/Monster_wadee_composer coins=10
+Monsters/Composer/Monster_quibble_composer coins=10
+Monsters/Composer/Monster_stoopa_composer coins=10
+;
+Composer
+monsters:
+Monsters/Composer/Monster_toejammer_composer coins=10
+Monsters/Composer/Monster_potbelly_composer coins=10
+Monsters/Composer/Monster_tweedle_composer coins=10
+Monsters/Composer/Monster_flootfly_composer coins=10
+Monsters/Composer/Monster_choral_composer coins=10
+Monsters/Composer/Monster_likho_composer coins=10
+Monsters/Composer/Monster_wadee_composer coins=10
+Monsters/Composer/Monster_quibble_composer coins=10
+Monsters/Composer/Monster_stoopa_composer coins=10
+;
+City
+monsters:
+Monsters/Monster_potbelly_young
+Monsters/Monster_mammott_young
+Monsters/Monster_tweedle_young
+Monsters/Monster_toejammer_young
+Monsters/Monster_noggin_young
+Monsters/Monster_kayna_young
+Monsters/Monster_fluoress_young coins=200
+Monsters/Monster_theremind_young coins=300
+Monsters/Monster_flootfly_young coins=300
+Monsters/Monster_clackula_young coins=400
+Monsters/Monster_oaktopus_young
+Monsters/Monster_dandidoo_young
+Monsters/Monster_maw_young
+Monsters/Monster_quibble_young
+Monsters/Monster_stogg_young
+Monsters/Monster_phangler_young
+Monsters/Monster_osstax_young
+Monsters/Monster_knucklehead_young
+Monsters/Monster_rootitoot_young
+Monsters/Monster_spunge_young
+Monsters/Monster_reedling_young
+Monsters/Monster_bridgit_young
+Monsters/Monster_frondley_young
+Monsters/Monster_gloptic_young
+Monsters/Monster_punkleton_young
+-
+monsters_celestials:
+Monsters/Monster_plixie
+Monsters/Monster_psychic
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_masher
+Structures/Structure_breeding_city
+Structures/Structure_jukebox
+-
+deco_paths:
+EM_path1
+EM_path2
+EM_path3
+EM_path4
+EM_path5
+EM_path6
+EM_path7
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+;
+Knottshurr
+monsters:
+Monsters/Knott_1
+Monsters/Knott_2
+Monsters/Knott_3
+Monsters/Knott_4
+Monsters/Knott_5
+Monsters/Knott_6
+Monsters/Knott_7
+Monsters/Knott_8
+Monsters/Knott_9
+Monsters/Knott_10
+Monsters/Knott_special
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+deco_obstacles:
+Decoration/Obstacle_placable_Knott_1
+Decoration/Obstacle_placable_Knott_2
+Decoration/Obstacle_placable_Knott_3
+Decoration/Obstacle_placable_Knott_4
+Decoration/Obstacle_placable_Knott_5
+Decoration/Obstacle_placable_Knott_6
+Decoration/Obstacle_placable_Knott_7
+Decoration/Obstacle_placable_Knott_8
+Decoration/Obstacle_placable_Knott_9
+Decoration/Obstacle_placable_Knott_10
+-
+structures:
+Structures/Structure_bakery
+
+-
+deco_paths:
+EM_path1
+EM_path2
+EM_path3
+EM_path4
+EM_path5
+EM_path6
+EM_path7
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+;
+Organs
+monsters:
+Monsters/Monster_handmond coins=10000
+Monsters/Monster_whimstlop diamonds=150
+Monsters/Monster_theremind diamonds=80
+Monsters/Monster_oaktopus diamonds=100
+Monsters/Monster_boskus diamonds=100
+Monsters/Monster_cybop diamonds=100
+Monsters/Monster_denchuhs diamonds=120
+Monsters/Monster_clamble diamonds=300
+Monsters/Monster_shellbeat diamonds=700
+Monsters/Monster_schmoochle diamonds=1000
+Monsters/Monster_plixie diamonds=5000
+Monsters/Monster_reebro diamonds=4000
+Monsters/Monster_wheezel_rock diamonds=30
+Monsters/Monster_knurv_rock diamonds=40
+-
+monster_rares:
+Monsters/Monster_oaktopus_rare
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_breeding
+Structures/Structure_crafter
+Structures/Structure_bakery
+-
+deco_paths:
+Organ_path1
+Organ_path2
+Organ_path3
+EM_path5
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+;
+Meduza
+monsters:
+Monsters/Monster_mammott_meduza diamonds=10
+Monsters/Monster_noggin_meduza diamonds=10
+Monsters/Monster_theremind_meduza diamonds=10
+Monsters/Monster_maw_meduza diamonds=10
+Monsters/Monster_knucklehead_meduza diamonds=10
+Monsters/Monster_sox_meduza diamonds=10
+Monsters/Monster_pummel_meduza diamonds=10
+Monsters/Monster_pongping_meduza diamonds=10
+Monsters/Monster_whimstlop_meduza diamonds=10
+Monsters/Monster_meduza diamonds=60
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+
+-
+deco_paths:
+EM_path1
+EM_path2
+EM_path3
+EM_path4
+EM_path5
+EM_path6
+EM_path7
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+;
+Desert
+monsters:
+Monsters/Monster_scaratar diamonds=3500
+Monsters/Monster_flootfly diamonds=75
+Monsters/Monster_furcorn diamonds=125
+Monsters/Monster_rootitoot diamonds=150
+Monsters/Monster_trox Vortex=3
+Monsters/Monster_spurrit_desert Vortex=4
+Monsters/Monster_bisonorus Vortex=1
+-
+monster_rares:
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_crafter
+Structures/Structure_bakery
+
+-
+deco_paths:
+Desert_path1
+Desert_path2
+Desert_path3
+Desert_path4
+Desert_path5
+Desert_path6
+EM_path5
+EM_path7
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+;
+Candy
+monsters:
+Monsters/Monster_toejammer_undof
+Monsters/Monster_noggin_undof
+Monsters/Monster_kayna_undof
+Monsters/Monster_gumtromp
+Monsters/Monster_fwog_undof
+Monsters/Monster_stogg_undof
+Monsters/Monster_phangler_undof
+Monsters/Monster_marshflamo
+Monsters/Monster_koodahcane
+Monsters/Monster_gobstomper
+Monsters/Monster_thrumble_undof
+Monsters/Monster_keytrus
+Monsters/Monster_claramel
+Monsters/Monster_brasscuit
+Monsters/Monster_sprinklate
+Monsters/Monster_dipster_1
+Monsters/Monster_dipster_2
+Monsters/Monster_dipster_3
+Monsters/Monster_dipster_4
+Monsters/Monster_dipster_5
+Monsters/Monster_dipster_6
+Monsters/Monster_dipster_7
+Monsters/Monster_knife
+Monsters/Monster_jamboree_undof
+Monsters/Monster_ghazt_undof
+Monsters/Monster_fleechwurm_undof
+Monsters/Monster_wubbox_undof
+Monsters/Monster_wubbox_rare_undof
+Monsters/Monster_jobo
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Obstacle_placable_Candy_1
+Decoration/Obstacle_placable_Candy_2
+Decoration/Obstacle_placable_Candy_3
+Decoration/Obstacle_placable_Candy_4
+Decoration/Obstacle_placable_Candy_5
+Decoration/Obstacle_placable_Candy_6
+-
+structures:
+Structures/Structure_breeding_undof
+Structures/Structure_breeding_undof2
+Structures/Structure_breeding_undof3
+Structures/Structure_bakery
+-
+deco_paths:
+Candy_path1
+Candy_path2
+Candy_path3
+Candy_path4
+Candy_path5
+Candy_path6
+Candy_path7
+Candy_path8
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+-
+deco_obstacles:
+Decoration/Obstacle_placable_Candy_1
+Decoration/Obstacle_placable_Candy_2
+Decoration/Obstacle_placable_Candy_3
+Decoration/Obstacle_placable_Candy_4
+Decoration/Obstacle_placable_Candy_5
+Decoration/Obstacle_placable_Candy_6
+;
+Calamity
+monsters:
+Monsters/Monster_stogg_undof
+Monsters/Monster_varrow Vortex=1
+Monsters/Monster_boskus Vortex=1
+Monsters/Monster_pango Vortex=1
+Monsters/Monster_denchuhs Vortex=1
+Monsters/Monster_banno Vortex=1
+Monsters/Monster_rootitoot
+Monsters/Monster_pummel Vortex=1
+Monsters/Monster_clamble Vortex=1
+Monsters/Monster_deedge Vortex=1
+Monsters/Monster_tiawa Vortex=1
+Monsters/Monster_arackulele Vortex=1
+Monsters/Monster_punkleton
+Monsters/Monster_ffydill Vortex=1
+Monsters/Monster_blasoom
+Monsters/Monster_poewk Vortex=1
+Monsters/Monster_pixolotl Vortex=1
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_crafter
+Structures/Structure_bakery
+-
+deco_paths:
+EM_path1
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+;
+TI
+monsters:
+Monsters/Monster_quibble diamonds=400
+Monsters/Monster_oaktopus diamonds=400
+Monsters/Monster_reedling_young_singer diamonds=600
+Monsters/Monster_loodvigg
+Monsters/Monster_spurrit Vortex=10
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_crafter
+Structures/Structure_bakery
+-
+deco_paths:
+EM_path1
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+;
+dream
+monsters:
+Monsters/Monster_cataliszt diamonds=50
+Structures/Structure_jukebox_dream coins=3070
+-
+monsters2:
+Monsters/Monster_mammott_dream
+Monsters/Monster_toejammer_dream
+Monsters/Monster_likho_dream
+Monsters/Monster_stogg_dream
+Monsters/Monster_quibble_dream
+Monsters/Monster_deedge_dream
+;
+GM
+monsters:
+Monsters/Monster_olga diamonds=1000
+Monsters/Monster_potbellyGM diamonds=1000
+Monsters/Monster_quibbleGM diamonds=2000
+-
+decorations:
+Decoration/Decoration_test
+Decoration/Decoration_test1
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test4
+Decoration/Decoration_test5
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test8
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test11
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+-
+structures:
+Structures/Structure_bass
+-
+deco_paths:
+EM_path1
+-
+deco_trees:
+Decoration/Decoration_test
+Decoration/Decoration_test2
+Decoration/Decoration_test3
+Decoration/Decoration_test5
+Decoration/Decoration_test8
+Decoration/Decoration_test11
+-
+deco_other:
+Decoration/Decoration_test1
+Decoration/Decoration_test4
+Decoration/Decoration_test6
+Decoration/Decoration_test7
+Decoration/Decoration_test9
+Decoration/Decoration_test10
+Decoration/Decoration_test12
+Decoration/Decoration_knott
+Decoration/Decoration_mors
+Decoration/Dog
+;
+EgyptPipes
+monsters:
+Monsters/Bonapetite
+Monsters/Congle
+Monsters/Gnarls
+Monsters/Krillby
+Monsters/Pladdie
+Monsters/Buzzinga
+Monsters/Shlep
+Monsters/Scaratar
+Monsters/Loodvigg
+Monsters/Uuduk
+Monsters/Whimmzies
+;

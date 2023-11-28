@@ -1,0 +1,33 @@
+0 0
+1 100
+2 100 Decoration/Decoration_test,Decoration/Decoration_test2
+3 200 Structures/Structure_bakery
+4 500 ISL:Candy,Structures/Structure_breeding,Monsters/Monster_dandidoo,Monsters/Monster_quibble,Monsters/Monster_oaktopus,Monsters/Monster_spunge
+5 2000 Decoration/Decoration_test3,Decoration/Decoration_test4,Decoration/Decoration_test5,Decoration/Decoration_test6,Decoration/Decoration_test7,Decoration/Decoration_test8,Decoration/Decoration_test9,Decoration/Decoration_test10,Decoration/Decoration_test11,Decoration/Decoration_test12
+6 5000 Monsters/Monster_flootfly,Monsters/Monster_likho,Monsters/Monster_wadee,Monsters/Monster_varrow,Monsters/Monster_choral,Monsters/Monster_dulsylvan,Monsters/Monster_banno,Monsters/Monster_stoopa,Monsters/Monster_bridgit,Monsters/Monster_phangler,Monsters/Monster_frondley
+7 6000
+8 8000
+9 10000
+10 14000 ISL:Knottshurr,ISL:Desert
+11 18000
+12 22000 ISL:Organs
+13 30000
+14 36000
+15 40000 ISL:GM
+16 50000
+17 70000
+18 100000
+19 130000
+20 150000 ISL:Calamity
+21 200000
+22 500000
+23 750000
+24 1000000
+25 2000000 ISL:Meduza
+26 4000000
+27 6000000
+28 10000000
+29 20000000
+30 50000000
+31 90000000
+1000 100000000  Monsters/Monster_hornacle,Monsters/Monster_loodvigg,Monsters/Monster_blasoom,Monsters/Monster_torrt,Monsters/Monster_scaratar,Monsters/Monster_syncopite,Monsters/Monster_attmoz,Monsters/Monster_vhamp,Monsters/Monster_furnoss

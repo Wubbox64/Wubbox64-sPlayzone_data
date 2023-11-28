@@ -1,0 +1,17 @@
+
+EM:
+N
+;
+City:
+N
+;
+Organs:
+Shugabush
+DEF R
+Monsters/Monster_handmond L
+Monsters/Monster_handmond_rare L
+;
+Candy:
+N
+
+

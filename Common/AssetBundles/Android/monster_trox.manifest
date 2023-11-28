@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+CRC: 3504163142
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9fdd2f48c3f075c58e10dae8d0dba65f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: eaae44cb1e255878d3f57eb9372fb3ba
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 70
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bb175d27d4875a4c95b119743520580, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d2452e2705a69e345acc9d3b8a0e2148, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3cc1cfa8d149dea41bf7d2eece3d449b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1fd8daaed7b64148a34acb96ba14ce1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9198896b93c75cc479a6bd8ff31cb526, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ca2bcbc60f91714194e85a5aaf08b63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2788c67eb0803554ba079b451f9e9be4, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Resources/Monsters/Common/Monster_trox.prefab
+Dependencies: []

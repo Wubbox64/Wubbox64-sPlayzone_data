@@ -1,0 +1,178 @@
+
+City 0
+Monsters/Monster_scaratar= 0
+;
+Candy 0
+Monsters/Monster_toejammer_undof= 1000
+Monsters/Monster_noggin_undof= 1000
+Monsters/Monster_noggin_rare_undof= 1000
+Monsters/Monster_kanya_undof= 1000
+Monsters/Monster_kanya_rare_undof= 1000
+Monsters/Monster_gumtromp= 1000
+Monsters/Monster_gumtromp_rare= 1000
+Monsters/Monster_fwog_undof= 1000
+Monsters/Monster_stogg_undof= 1000
+Monsters/Monster_phangler_undof= 1000
+Monsters/Monster_marshflamo= 1000
+Monsters/Monster_koodahcane= 1000
+Monsters/Monster_gobstomper= 1000
+Monsters/Monster_thrumble_undof= 1000
+Monsters/Monster_keytrus= 1000
+Monsters/Monster_claramel= 1000
+Monsters/Monster_brasscuit= 1000
+Monsters/Monster_sprinklate= 1000
+Monsters/Monster_jamboree_undof= 1000
+Monsters/Monster_ghazt_undof= 1000
+Monsters/Monster_dipster_1= 1000
+Monsters/Monster_dipster_2= 1000
+Monsters/Monster_dipster_3= 1000
+Monsters/Monster_dipster_4= 1000
+Monsters/Monster_dipster_5= 1000
+Monsters/Monster_dipster_6= 1000
+Monsters/Monster_dipster_7= 1000
+Monsters/Monster_knife= 1000
+Monsters/Monster_fleechwurm_undof= 1000
+Monsters/Monster_wubbox_undof= 1000
+Monsters/Monster_wubbox_rare_undof= 1000
+Monsters/Monster_jobo= 1000
+;
+EM 3600 4
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer 4
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 4
+Monsters/Monster_tweedle_young=Monsters/Monster_tweedle 4
+Monsters/Monster_potbelly_young=Monsters/Monster_potbelly 4
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 4
+Monsters/Monster_quibble_young=Monsters/Monster_quibble 4
+Monsters/Monster_dandidoo_young=Monsters/Monster_dandidoo 4
+Monsters/Monster_spunge_young=Monsters/Monster_spunge 4
+Monsters/Monster_phangler_young=Monsters/Monster_phangler 4
+Monsters/Monster_bridgit_young=Monsters/Monster_bridgit 4
+Monsters/Monster_frondley_young=Monsters/Monster_frondley 4
+Monsters/Monster_toejammer= 0
+Monsters/Monster_toejammer_rare= 0
+Monsters/Monster_flootfly= 0
+Monsters/Monster_tweedle= 0
+Monsters/Monster_potbelly= 0
+Monsters/Monster_oaktopus= 0
+Monsters/Monster_oaktopus_rare= 0
+Monsters/Monster_quibble= 0
+Monsters/Monster_quibble_rare= 0
+Monsters/Monster_dandidoo= 0
+Monsters/Monster_spunge= 0
+Monsters/Monster_spunge_rare= 0
+Monsters/Monster_likho= 0
+Monsters/Monster_banno= 0
+Monsters/Monster_banno_rare= 0
+Monsters/Monster_bridgit= 0
+Monsters/Monster_choral= 0
+Monsters/Monster_dulsylvan= 0
+Monsters/Monster_dulsylvan_rare= 0
+Monsters/Monster_frondley= 0
+Monsters/Monster_percFrog= 0
+Monsters/Monster_phangler= 0
+Monsters/Monster_phangler_rare= 0
+Monsters/Monster_stoopa= 0
+Monsters/Monster_varrow= 0
+Monsters/Monster_varrow_rare= 0
+Monsters/Monster_wadee= 0
+;
+Desert 43200 7
+Monsters/Monster_gloptic_young=Monsters/Monster_gloptic 7
+Monsters/Monster_scaratar=Monsters/Monster_scaratar 1
+Monsters/Monster_flootfly_young=Monsters/Monster_flootfly 7
+Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 7
+Monsters/Monster_rootitoot= 0
+Monsters/Monster_flootfly= 0
+Monsters/Monster_spurrit_desert= 0
+Monsters/Monster_spurrit= 0
+Monsters/Monster_trox= 0
+Monsters/VOIDCORN_dream=Monsters/Monster_furcorn 0
+;
+Organs 43200 10
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 10
+Monsters/Monster_plixie=Monsters/Monster_plixie 1
+Monsters/Monster_theremind_young=Monsters/Monster_theremind 10
+Monsters/Monster_shellbeat_young=Monsters/Monster_shellbeat 10
+Monsters/Monster_boskus_young=Monsters/Monster_boskus 10
+Monsters/Monster_cybop_young=Monsters/Monster_cybop 10
+Monsters/Monster_shellbeat= 0
+Monsters/Monster_oaktopus= 0
+Monsters/Monster_handmond= 0
+Monsters/Monster_whimstlop= 0
+Monsters/Monster_theremind= 0
+Monsters/Monster_cybop= 0
+Monsters/Monster_boskus= 0
+;
+Knottshurr 0
+Monsters/Knott_1= 1
+Monsters/Knott_2= 1
+Monsters/Knott_3= 1
+Monsters/Knott_4= 1
+Monsters/Knott_5= 1
+Monsters/Knott_6= 1
+Monsters/Knott_7= 1
+Monsters/Knott_8= 1
+Monsters/Knott_9= 1
+Monsters/Knott_10= 1
+Monsters/Knott_special= 1
+;
+Meduza 0
+Monsters/Monster_whimstlop= 0
+Monsters/Monster_theremind= 0
+Monsters/Monster_pongping= 0
+Monsters/Monster_meduza= 0
+Monsters/Monster_knucklehead= 0
+Monsters/Monster_mammott= 0
+Monsters/Monster_maw= 0
+Monsters/Monster_noggin= 0
+Monsters/Monster_pummel= 0
+Monsters/Monster_whimstlop_meduza= 0
+Monsters/Monster_theremind_meduza= 0
+Monsters/Monster_pongping_meduza= 0
+Monsters/Monster_kuncklehead_meduza= 0
+Monsters/Monster_mammott_meduza= 0
+Monsters/Monster_maw_meduza= 0
+Monsters/Monster_noggin_meduza= 0
+Monsters/Monster_pummel_meduza= 0
+;
+Calamity 86400 17
+Monsters/Monster_varrow=Monsters/Monster_varrow 17
+Monsters/Monster_banno=Monsters/Monster_banno 17
+Monsters/Monster_stogg_young=Monsters/Monster_stogg_undof= 17
+Monsters/Monster_rootitoot_young=Monsters/Monster_rootitoot 17
+Monsters/Monster_pummel_young=Monsters/Monster_pummel 17
+Monsters/Monster_blasoom=Monsters/Monster_blasoom 0
+Monsters/Monster_punkleton_young=Monsters/Monster_punkleton 17
+
+
+Monsters/Monster_punkleton= 0
+Monsters/Monster_stogg_undof= 0
+Monsters/Monster_rootitoot= 0
+Monsters/Monster_pummel= 0
+;
+TI 86400 15
+Monsters/Monster_quibble_young=Monsters/Monster_quibble 15
+Monsters/Monster_oaktopus_young=Monsters/Monster_oaktopus 15
+Monsters/Monster_loodvigg=Monsters/Monster_loodvigg 1
+Monsters/Monster_spurrit_young=Monsters/Monster_spurrit 15
+Monsters/Monster_reedling_young=Monsters/Monster_reedling_young_singer 15
+;
+GM 86400 20
+Monsters/Monster_toejammer_young=Monsters/Monster_olga 20
+Monsters/Monster_potbelly_young=Monsters/Monster_potbellyGM 20
+Monsters/Monster_quibble_young=Monsters/Monster_quibbleGM 20
+Monsters/Monster_olga= 0
+Monsters/Monster_potbellyGM= 0
+Monsters/Monster_quibbleGM= 0
+;
+dream 0 -999
+Monsters/Monster_mammott_young=Monsters/Monster_mammott_dream 0
+Monsters/Monster_toejammer_young=Monsters/Monster_toejammer_dream 0
+Monsters/Monster_gloptic_young=Monsters/Monster_likho_dream 0
+Monsters/Monster_stogg_young=Monsters/Monster_stogg_dream 0
+Monsters/Monster_quibble_young=Monsters/Monster_quibble_dream 0
+Monsters/Monster_rootitoot_young=Monsters/Monster_deedge_dream 0
+Monsters/Monster_plixie=Monsters/Monster_ghazt_dream 0
+Monsters/Monster_spunge_young=Monsters/VOIDCORN_dream 0
+Monsters/Monster_scaratar=Monsters/Monster_dragong_dream 0
+

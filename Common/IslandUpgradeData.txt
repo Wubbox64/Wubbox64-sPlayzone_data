@@ -1,0 +1,35 @@
+
+EM: 1
+diamonds=10
+Mushroom_1=5
+Mushroom_2=5
+Lilly=5
+;
+City: 1
+coins=100
+Flower_red=5
+Flower_yellow=5
+Flower_blue=5
+;
+City: 2
+coins=500
+Log=10
+Flower_red= 5
+Flower_yellow=5
+Flower_blue=5
+;
+City: 3
+diamonds=25
+Flower_blue=25
+Flower_red=25
+Log=20
+Mushroom_2=10
+ITM_grain=5
+;
+Calamity: 1
+diamonds=50
+Mushroom_1=15
+Mushroom_2=10
+Lilly=10
+Virus=7
+Vortex=10

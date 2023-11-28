@@ -1,0 +1,7 @@
+
+Monsters/Monster_noggin_undof
+Costume_1 Candycorn=10,Virus=1 enabled
+;
+Monsters/Monster_phangler_undof
+Costume_1 Berries=10,Seaweed=5 enabled
+;
