@@ -120,6 +120,7 @@ Monsters/Monster_quibble
 Monsters/Monster_oaktopus
 Monsters/Monster_loodvigg
 Monsters/Monster_spurrit
+Monsters/Monster_wubbox_undof
 ;
 Meduza:
 Monsters/Monster_mammott_meduza
